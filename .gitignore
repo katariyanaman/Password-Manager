@@ -1,0 +1,3 @@
+.venv/
+database/passwords.db
+_pycache__/
